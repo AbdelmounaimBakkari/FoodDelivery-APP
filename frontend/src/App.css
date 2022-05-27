@@ -1,0 +1,27 @@
+.logo{
+  max-width:90px;
+}
+.min-height{
+  min-height: 560px;
+}
+.hotel-images{
+  max-height: 650px;
+}
+.bg-dark,#dropdown-basic-button{
+  background-color: rgb(227, 138, 5) !important;
+  color: #ffffff;
+}
+img{
+  width: 90px;
+}
+.btn-info{
+  background-color: rgb(227, 138, 5) ;
+  color: #ffffff;
+  color: rgba(0, 0, 0, 0.811);
+  border: none;
+}
+.btn-info:hover{
+  background-color: #ffffff ;
+  color: rgb(227, 138, 5);
+  border: 1px solid rgb(227, 138, 5);
+}
